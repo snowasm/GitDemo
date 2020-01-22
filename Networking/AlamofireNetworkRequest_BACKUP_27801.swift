@@ -176,9 +176,13 @@ class AlamofireNetworkRequest {
 //        }
 //
         print("Dev it soon")
+<<<<<<< HEAD
         print("may be..")
         print("remote change")
+=======
+        
         print("may be..?")
+>>>>>>> hotfix
         
     }
     

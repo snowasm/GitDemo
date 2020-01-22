@@ -176,8 +176,7 @@ class AlamofireNetworkRequest {
 //        }
 //
         print("Dev it soon")
-        print("may be..")
-        print("remote change")
+        
         print("may be..?")
         
     }
